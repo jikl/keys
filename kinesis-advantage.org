@@ -1,0 +1,31 @@
+| from      | to        | use    |
+|-----------+-----------+--------|
+| LeftCtrl  | Delete    |        |
+| RightCtrl | Enter     |        |
+| LeftAlt   | End       |        |
+| RightAlt  | PageDown  |        |
+|           |           |        |
+| Return    | Home      |        |
+| Return    | PageUp    |        |
+| Home      | LeftCtrl  |        |
+| End       | RightCtrl |        |
+| PageUp    | LeftAlt   |        |
+| PageDown  | RightAlt  |        |
+|           |           |        |
+| BackSpace | Insert    |        |
+| Delete    | Right     |        |
+|           |           |        |
+| Left      | Up        |        |
+| Right     | {[        |        |
+| Up        | Left      |        |
+| {[        | ~`        |        |
+|           |           |        |
+| Space     | :;        |        |
+| Tab       | ?/        |        |
+|           |           |        |
+| ?/        | Tab       |        |
+| :;        | CapsLock  | level3 |
+| "'        | "'        | level3 |
+|           |           |        |
+| ~`        | BackSpace | hyper  |
+| Insert    | Space     | hyper  |
